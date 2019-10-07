@@ -7,11 +7,33 @@
 
 
 * Menu
+##### page
+>menu.html
+
+>petitdej.html
+>dejeuner.thml
+>dessert.html
+>diner.html
+
 * configuration
+##### page
+>aucune page
 * Reservation
-* Newsletter
+##### page
+>reservation.html
+* contact
+##### page
+>a creer
 * Horraire
+>aucune page
 * Team
+>team.html
+* entreprise
+
+##### page
+>about.html
+>index.html
+
 
 ### Mes_models
 
