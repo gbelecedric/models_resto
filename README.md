@@ -1,7 +1,7 @@
 ### MODELS_resto :  groupe 5
 ### pages manquante
 
-* home.html
+
 
 ### mes_App
 
