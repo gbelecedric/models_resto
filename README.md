@@ -113,5 +113,13 @@ class about(Timemodels):
 
 
 ```
+### Explication :
 
+> bon je vois pas trop grand chose a expliquer 
+> mais si vous ne comprennez pas un truc on peut se prendre sur whatssap 
+> et je vais vous dire les pages a ajouter et element a suprimer dans les pages mais
+> pour l'instant voici mon models dans toute sa  simplicité
+
+
+ 
 # Fin... 
