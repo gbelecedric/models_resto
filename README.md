@@ -14,6 +14,7 @@
 >dejeuner.thml
 >dessert.html
 >diner.html
+## supression des pages petit 
 
 * configuration
 ##### page
