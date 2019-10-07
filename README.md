@@ -1,4 +1,7 @@
-### MODELS : exercice de groupe
+### MODELS_resto :  groupe 5
+### pages manquante
+
+* home.html
 
 ### mes_App
 
@@ -115,10 +118,11 @@ class about(Timemodels):
 ```
 ### Explication :
 
-> bon je vois pas trop grand chose a expliquer 
+> bon je vois pas trop grande chose a expliquer 
 > mais si vous ne comprennez pas un truc on peut se prendre sur whatssap 
-> et je vais vous dire les pages a ajouter et element a suprimer dans les pages mais
+> et je vais vous dire les pages a ajouter et element a suprimer entre les pages mais
 > pour l'instant voici mon models dans toute sa  simplicité
+> coter fonctionalité nous allons en parler aussi vos mieux les enumerés des maintenant
 
 
  
