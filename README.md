@@ -10,11 +10,11 @@
 ##### page
 >menu.html
 
->petitdej.html
->dejeuner.thml
->dessert.html
->diner.html
-## supression des pages petit 
+>petitdej.html,
+>dejeuner.thml,
+>dessert.html,
+>diner.html,
+## supression des pages de special et on va les remplacer par deujerner.html et haute
 
 * configuration
 ##### page
